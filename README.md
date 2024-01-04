@@ -1,4 +1,4 @@
-# USC CSCI 596 Final Project (Fall 2023)
+# License Plates Recognition
 This project is implemented in Java to create a model that recognizes license plates in parallel. 
 
 ## Objective
