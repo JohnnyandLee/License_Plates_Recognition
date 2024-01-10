@@ -63,7 +63,7 @@ This project is implemented in Java to create a model that recognizes license pl
 1. Clone this repository
 
 ```bash
-git clone https://github.com/kuantele/CSCI596_Final_Project
+git clone https://github.com/JohnnyandLee/License_Plates_Recognition
 ```
 
 2. Single-Threaded Training, Single-Threaded Recognition: run the main function of App.java(just run useThread(1))
